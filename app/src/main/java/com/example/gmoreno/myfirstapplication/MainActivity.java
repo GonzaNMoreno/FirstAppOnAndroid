@@ -11,8 +11,5 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Log.d("My first Aplication", "Mensaje de prueba");
-
-        Log.e("Error", "Estas flashando");
     }
 }
