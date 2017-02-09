@@ -18,9 +18,10 @@
             android:layout_alignParentTop="true" android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true">
         <TextView
+                android:id="@+id/greeting"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="My firt app, looks good so far?"
+                android:text="Hello world!"
                 android:layout_alignParentStart="true" android:layout_alignParentLeft="true"
                 android:layout_alignParentTop="true"
                 android:layout_marginTop="@dimen/activity_vertical_margin"

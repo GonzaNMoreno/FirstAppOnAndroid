@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">MyFirstApplication</string>
     <string name="second_activity">Second Activity</string>
+    <string name="say_bye">Say bye!</string>
+    <string name="bye">Goodbye!</string>
+    <string name="hello_world">Hello world!</string>
 </resources>
