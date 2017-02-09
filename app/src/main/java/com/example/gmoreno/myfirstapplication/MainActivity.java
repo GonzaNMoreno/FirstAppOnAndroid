@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()){
-            case R.id.firstApp:
+            case R.id.item_option:
                 Log.e("Primer item", "Error en primer item");
                 break;
             default:
